@@ -1,0 +1,47 @@
+{
+  "MyBoutLibs": [
+    {
+      "author": "Paweł Paszkiewicz",
+      "lockExpand": "true",
+      "libs": [
+        {
+          "name": "MyBoutLibs",
+          "desc": "Library for building about this app activity from json resource",
+          "icon": "mipmap:ic_launcher",
+          "github": "https://github.com/PPaszkiewicz/myboutlibs",
+          "www": "https://github.com/PPaszkiewicz/myboutlibs",
+          "store": "https://play.google.com/store/apps/details?id=pl.siltax.popupimageview",
+          "license": "APACHE 2",
+          "licenseNotice": "Copyright 2016 Paweł Paszkiewicz"
+        },
+        {
+          "name": "Tips",
+          "desc": "Include multiple libs from single author, if other fields are ommited buttons won't appear. Icon can point to mipmap or drawable",
+          "icon": "drawable:myboutlibs_ic_shop"
+        },
+        {
+          "name": "Custom License",
+          "desc": "Include custom license by referencing resources:",
+          "licenseNotice": "Copyright notice here, can be omitted",
+          "licenseLongName": "string:myboutlibs_license_apache_2_name",
+          "licenseContent": "string:myboutlibs_license_apache_2_full"
+        }
+      ]
+    },
+    {
+      "author": "Add more authors and their libs",
+      "libs": [
+        {
+          "name": "Lib",
+          "desc": "Sample library",
+          "license": "MIT"
+        },
+        {
+          "name": "Lib2",
+          "desc": "Sample library 2",
+          "license": "UNLICENSE"
+        }
+      ]
+    }
+  ]
+}

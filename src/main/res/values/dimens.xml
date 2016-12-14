@@ -1,0 +1,17 @@
+<resources>
+	<dimen name="myboutlibs_appbar_height">180dp</dimen>
+	<dimen name="myboutlibs_fab_margin">16dp</dimen>
+	<dimen name="myboutlibs_lib_titlecollapsed">16sp</dimen>
+	<dimen name="myboutlibs_lib_titleexpanded">20sp</dimen>
+	<dimen name="myboutlibs_lib_titleviewheight">28sp</dimen>
+
+
+	<dimen name="myboutlibs_lib_bottompadding">4dp</dimen>
+	<dimen name="myboutlibs_lib_buttonheight">48dp</dimen>
+	<dimen name="myboutlibs_author_card_locked_elevation">6dp</dimen>
+	<dimen name="myboutlibs_author_card_default_elevation">4dp</dimen>
+	<dimen name="myboutlibs_author_card_highlighted_elevation">4dp</dimen>
+
+	<dimen name="activity_horizontal_margin">16dp</dimen>
+	<dimen name="activity_vertical_margin">16dp</dimen>
+</resources>

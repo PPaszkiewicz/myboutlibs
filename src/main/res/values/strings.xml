@@ -1,0 +1,7 @@
+<resources>
+	<string name="app_name">MyBoutLibs</string>
+	<string name="myboutlibs_default_title">About app and libraries</string>
+	<string name="myboutlibs_activity_title">MyBoutLibsActivity</string>
+	<string name="action_settings">Settings</string>
+	<string name="myboutlibs_missing_lib">No resource for license specified.</string>
+</resources>
